@@ -1,0 +1,10 @@
+https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+pip install colorama
+pip install bcrypt
+pip install subprocess
+pip install colorama
+pip install time
+pip install json
+pip install platform
+pip install os
+https://megawrzuta.pl/download/54022f0123fabbe198faa7640653b344.html
