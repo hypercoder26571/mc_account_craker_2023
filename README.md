@@ -1,1 +1,1 @@
-# mc_account_craker_2023
+# Minecraft non-premium account crakerfor servers
